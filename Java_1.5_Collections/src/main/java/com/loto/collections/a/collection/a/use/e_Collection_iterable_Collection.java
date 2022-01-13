@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 22:43
- * PageName：e_Collection_iterable_Collection.java
- * Function：Collection_遍历
+ * <p>PageName：e_Collection_iterable_Collection.java
+ * </p>
+ * <p>Function：Collection_遍历
  */
 
 public class e_Collection_iterable_Collection {

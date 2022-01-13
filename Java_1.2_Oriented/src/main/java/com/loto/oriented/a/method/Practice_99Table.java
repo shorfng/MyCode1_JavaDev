@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：Practice_99Table.java
- * Function：键盘录入一个数据n(1<=n<=9)，输出对应的nn乘法表
+ * <p>PageName：Practice_99Table.java
+ * </p>
+ * <p>Function：键盘录入一个数据n(1<=n<=9)，输出对应的nn乘法表
  */
 
 public class Practice_99Table {

@@ -2,8 +2,8 @@ package com.loto.grammar.a.recognizejava;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_HelloWorld.java
- * Function：第一个Java程序
+ * <p>PageName：a_HelloWorld.java</p>
+ * <p>Function：第一个Java程序</p>
  */
 
 // 定义一个类

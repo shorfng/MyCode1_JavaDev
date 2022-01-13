@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 23:27
- * PageName：a_ArrayList_Create.java
- * Function：ArrayList_创建方式及类型
+ * <p>PageName：a_ArrayList_Create.java
+ * </p>
+ * <p>Function：ArrayList_创建方式及类型
  */
 
 /*

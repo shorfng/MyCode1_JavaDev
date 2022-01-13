@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Practice.java
- * Function：键盘录入三个int类型的数字（求出三个数中的最小值并打印、求出三个数的和并打印）
+ * <p>PageName：b_Practice.java
+ * </p>
+ * <p>Function：键盘录入三个int类型的数字（求出三个数中的最小值并打印、求出三个数的和并打印）
  */
 
 public class b_Practice {

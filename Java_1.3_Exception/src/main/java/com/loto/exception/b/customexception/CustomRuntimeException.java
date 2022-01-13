@@ -2,8 +2,9 @@ package com.loto.exception.b.customexception;
 
 /**
  * Author：蓝田_Loto
- * PageName：CustomRuntimeException.java
- * Function：自定义异常继承RuntimeException
+ * <p>PageName：CustomRuntimeException.java
+ * </p>
+ * <p>Function：自定义异常继承RuntimeException
  */
 
 public class CustomRuntimeException extends RuntimeException { // 此处继承运行时异常

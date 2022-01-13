@@ -3,8 +3,9 @@ package com.loto.classloader;
 /**
  * Author：蓝田_Loto
  * Date：2018-04-18 02:29
- * PageName：b_Resolution.java
- * Function：类的链接 - 解析
+ * <p>PageName：b_Resolution.java
+ * </p>
+ * <p>Function：类的链接 - 解析
  */
 
 public class b_Resolution {

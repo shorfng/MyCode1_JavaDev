@@ -4,8 +4,9 @@ import java.util.Random;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_Random_use.java
- * Function：获取随机整数
+ * <p>PageName：a_Random_use.java
+ * </p>
+ * <p>Function：获取随机整数
  */
 
 public class a_Random_use {

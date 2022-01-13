@@ -3,8 +3,9 @@ package com.loto.multithread.b.thread;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 16:26
- * PageName：MyThread.java
- * Function：创建线程的方法1（继承Thread类）
+ * <p>PageName：MyThread.java
+ * </p>
+ * <p>Function：创建线程的方法1（继承Thread类）
  */
 
 public class MyThread extends Thread {

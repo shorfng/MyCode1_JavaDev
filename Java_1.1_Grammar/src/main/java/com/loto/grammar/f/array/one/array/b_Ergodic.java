@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.one.array;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Ergodic.java
- * Function：一维数组遍历（正向、反向、逆序）
+ * <p>PageName：b_Ergodic.java
+ * </p>
+ * <p>Function：一维数组遍历（正向、反向、逆序）
  */
 
 public class b_Ergodic {

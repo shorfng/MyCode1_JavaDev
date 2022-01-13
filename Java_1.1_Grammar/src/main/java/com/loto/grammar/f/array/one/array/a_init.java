@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.one.array;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_init.java
- * Function：一维数组的初始化（int、float、char、Boolean、class、interface、数组）
+ * <p>PageName：a_init.java
+ * </p>
+ * <p>Function：一维数组的初始化（int、float、char、Boolean、class、interface、数组）
  */
 
 public class a_init {

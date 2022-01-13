@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.d.innerclass.anonymous;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：匿名内部类（属于局部内部类）（是创建某个类型子类对象的快捷方式）
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：匿名内部类（属于局部内部类）（是创建某个类型子类对象的快捷方式）
  */
 
 public class Main {

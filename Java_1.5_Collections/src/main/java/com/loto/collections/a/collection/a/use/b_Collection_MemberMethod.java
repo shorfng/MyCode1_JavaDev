@@ -6,8 +6,9 @@ import java.util.Collection;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 22:43
- * PageName：b_Collection_MemberMethod.java
- * Function：Collection的常用成员方法
+ * <p>PageName：b_Collection_MemberMethod.java
+ * </p>
+ * <p>Function：Collection的常用成员方法
  */
 
 /*

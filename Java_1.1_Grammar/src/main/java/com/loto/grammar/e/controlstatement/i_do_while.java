@@ -2,8 +2,9 @@ package com.loto.grammar.e.controlstatement;
 
 /**
  * Author：蓝田_Loto
- * PageName：i_do_while.java
- * Function：do while 循环语句
+ * <p>PageName：i_do_while.java
+ * </p>
+ * <p>Function：do while 循环语句
  */
 
 public class i_do_while {

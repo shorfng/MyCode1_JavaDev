@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.c.SRP.classes;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-04 13:35
- * PageName：Course.java
- * Function：课程类
+ * <p>PageName：Course.java
+ * </p>
+ * <p>Function：课程类
  */
 
 public class Course {

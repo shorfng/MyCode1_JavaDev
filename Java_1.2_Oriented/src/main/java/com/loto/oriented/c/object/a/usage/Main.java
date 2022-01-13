@@ -2,8 +2,9 @@ package com.loto.oriented.c.object.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：对象的创建、对象的使用（对象的成员变量赋值、访问对象的成员变量值、调用对象的成员方法）
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：对象的创建、对象的使用（对象的成员变量赋值、访问对象的成员变量值、调用对象的成员方法）
  */
 
 public class Main {

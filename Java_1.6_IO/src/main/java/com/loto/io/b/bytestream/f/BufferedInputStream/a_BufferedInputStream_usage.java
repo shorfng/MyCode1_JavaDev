@@ -7,8 +7,9 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-24 13:42
- * PageName：a_BufferedInputStream_usage.java
- * Function：BufferedInputStream（字节缓冲输入流/缓冲流/高效流）
+ * <p>PageName：a_BufferedInputStream_usage.java
+ * </p>
+ * <p>Function：BufferedInputStream（字节缓冲输入流/缓冲流/高效流）
  */
 
 public class a_BufferedInputStream_usage {

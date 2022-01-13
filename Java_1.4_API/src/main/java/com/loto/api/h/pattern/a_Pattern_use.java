@@ -3,8 +3,9 @@ package com.loto.api.h.pattern;
 /**
  * Author：蓝田_Loto
  * Date：2018-11-29 21:38
- * PageName：a_Pattern_use.java
- * Function：Pattern_正则表达式的使用
+ * <p>PageName：a_Pattern_use.java
+ * </p>
+ * <p>Function：Pattern_正则表达式的使用
  */
 
 /* 正则表达式在字符串中的用法

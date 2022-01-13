@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.two.array;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Ergodic.java
- * Function：二维数组遍历
+ * <p>PageName：b_Ergodic.java
+ * </p>
+ * <p>Function：二维数组遍历
  */
 
 public class b_Ergodic {

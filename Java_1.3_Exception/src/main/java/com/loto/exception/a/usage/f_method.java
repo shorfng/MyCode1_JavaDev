@@ -2,8 +2,9 @@ package com.loto.exception.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：f_method.java
- * Function：异常中的常用方法
+ * <p>PageName：f_method.java
+ * </p>
+ * <p>Function：异常中的常用方法
  */
 
 // getMessage：返回该异常的详细信息字符串，即异常提示信息，对异常信息的详细描述
@@ -13,7 +14,8 @@ package com.loto.exception.a.usage;
 public class f_method {
 	public static void main(String[] args) {
 		try {
-			function();
+			</p>
+ * <p>Function();
 		} catch (Exception ex) {
 			// System.out.println(ex.getMessage());  // 异常了!
 			// System.out.println(ex.toString());    // java.lang.Exception: 异常了!
@@ -21,7 +23,8 @@ public class f_method {
 		}
 	}
 
-	public static void function() throws Exception {
+	public static void </p>
+ * <p>Function() throws Exception {
 		throw new Exception("异常了!");
 	}
 }

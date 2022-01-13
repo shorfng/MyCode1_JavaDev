@@ -3,8 +3,9 @@ package com.loto.api.n.wrapclass;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-03 22:26
- * PageName：b_MemberMethod.java
- * Function：包装类中的成员方法
+ * <p>PageName：b_MemberMethod.java
+ * </p>
+ * <p>Function：包装类中的成员方法
  */
 
 public class b_MemberMethod {

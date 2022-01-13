@@ -2,8 +2,9 @@ package com.loto.oriented.f.inheritance.a.extendsKeyword;
 
 /**
  * Author：蓝田_Loto
- * PageName：Person.java
- * Function：父类
+ * <p>PageName：Person.java
+ * </p>
+ * <p>Function：父类
  */
 
 public class Person {

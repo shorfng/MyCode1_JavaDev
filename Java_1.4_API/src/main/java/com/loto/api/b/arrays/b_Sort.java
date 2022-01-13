@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Sort.java
- * Function：对数组进行升序排列
+ * <p>PageName：b_Sort.java
+ * </p>
+ * <p>Function：对数组进行升序排列
  */
 
 // static [void] sort(int[] a)

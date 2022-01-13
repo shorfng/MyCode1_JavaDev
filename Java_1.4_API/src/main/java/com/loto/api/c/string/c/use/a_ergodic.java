@@ -2,8 +2,9 @@ package com.loto.api.c.string.c.use;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_ergodic.java
- * Function：字符串遍历
+ * <p>PageName：a_ergodic.java
+ * </p>
+ * <p>Function：字符串遍历
  */
 
 public class a_ergodic {

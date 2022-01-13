@@ -2,8 +2,9 @@ package com.loto.oriented.j.statics;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：static关键字
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：static关键字
  */
 
 public class Main {

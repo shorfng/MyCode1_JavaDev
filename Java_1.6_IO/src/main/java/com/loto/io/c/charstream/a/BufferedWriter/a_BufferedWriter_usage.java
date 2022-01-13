@@ -5,8 +5,9 @@ import java.io.*;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-24 14:29
- * PageName：a_BufferedWriter_usage.java
- * Function：BufferedWriter（字符缓冲输出流/缓冲流/高效流）
+ * <p>PageName：a_BufferedWriter_usage.java
+ * </p>
+ * <p>Function：BufferedWriter（字符缓冲输出流/缓冲流/高效流）
  */
 
 public class a_BufferedWriter_usage {

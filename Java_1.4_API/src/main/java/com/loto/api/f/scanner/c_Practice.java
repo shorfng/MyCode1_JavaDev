@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_Practice.java
- * Function：键盘录入三个数据获取最大值
+ * <p>PageName：c_Practice.java
+ * </p>
+ * <p>Function：键盘录入三个数据获取最大值
  */
 
 public class c_Practice {

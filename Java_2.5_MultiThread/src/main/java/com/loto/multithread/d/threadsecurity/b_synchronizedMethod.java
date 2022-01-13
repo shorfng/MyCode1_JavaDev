@@ -3,8 +3,9 @@ package com.loto.multithread.d.threadsecurity;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 19:29
- * PageName：b_synchronizedMethod.java
- * Function：解决线程安全问题方式2_同步方法
+ * <p>PageName：b_synchronizedMethod.java
+ * </p>
+ * <p>Function：解决线程安全问题方式2_同步方法
  */
 
 public class b_synchronizedMethod {

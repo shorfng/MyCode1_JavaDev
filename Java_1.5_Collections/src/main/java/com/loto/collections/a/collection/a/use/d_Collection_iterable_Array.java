@@ -3,8 +3,9 @@ package com.loto.collections.a.collection.a.use;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 22:43
- * PageName：d_Collection_iterable_Array.java
- * Function：Collection_遍历
+ * <p>PageName：d_Collection_iterable_Array.java
+ * </p>
+ * <p>Function：Collection_遍历
  */
 
 public class d_Collection_iterable_Array {

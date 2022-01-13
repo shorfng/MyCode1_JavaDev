@@ -7,8 +7,9 @@ import java.lang.reflect.Proxy;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-26 17:31
- * PageName：Test_DynamicProxy.java
- * Function：Java代理 - JDK动态代理 (在运行时，在内存中动态的为目标对象创建一个虚拟的代理对象)
+ * <p>PageName：Test_DynamicProxy.java
+ * </p>
+ * <p>Function：Java代理 - JDK动态代理 (在运行时，在内存中动态的为目标对象创建一个虚拟的代理对象)
  */
 
 public class Test_DynamicProxy {

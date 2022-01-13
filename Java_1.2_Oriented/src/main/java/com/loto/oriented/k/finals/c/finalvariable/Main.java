@@ -2,8 +2,9 @@ package com.loto.oriented.k.finals.c.finalvariable;
 
 /**
  * Author：蓝田_Loto
- * PageName：.java
- * Function：被final修饰的变量
+ * <p>PageName：.java
+ * </p>
+ * <p>Function：被final修饰的变量
  */
 
 // 1、final修饰局部变量

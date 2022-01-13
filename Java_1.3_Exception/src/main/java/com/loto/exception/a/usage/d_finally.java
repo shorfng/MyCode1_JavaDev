@@ -4,7 +4,8 @@ package com.loto.exception.a.usage;
 public class d_finally {
 	public static void main(String[] args) {
 		try {
-			function(0);
+			</p>
+ * <p>Function(0);
 		} catch (Exception ex) {
 			System.out.println(ex);
 
@@ -13,7 +14,8 @@ public class d_finally {
 		}
 	}
 
-	public static void function(int a) throws Exception {
+	public static void </p>
+ * <p>Function(int a) throws Exception {
 		if (a == 0)
 			throw new Exception();
 		System.out.println(a);

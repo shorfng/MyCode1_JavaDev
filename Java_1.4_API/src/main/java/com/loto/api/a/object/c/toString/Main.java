@@ -2,8 +2,9 @@ package com.loto.api.a.object.c.toString;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：object类的toString()方法
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：object类的toString()方法
  */
 
 public class Main {

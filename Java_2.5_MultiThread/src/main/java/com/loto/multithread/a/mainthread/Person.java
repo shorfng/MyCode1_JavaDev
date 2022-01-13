@@ -3,8 +3,9 @@ package com.loto.multithread.a.mainthread;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 15:24
- * PageName：.java
- * Function：
+ * <p>PageName：.java
+ * </p>
+ * <p>Function：
  */
 
 public class Person {

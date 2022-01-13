@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.one.array;
 
 /**
  * Author：蓝田_Loto
- * PageName：.java
- * Function：一维数组获取最值(最大值、最小值)
+ * <p>PageName：.java
+ * </p>
+ * <p>Function：一维数组获取最值(最大值、最小值)
  */
 
 public class c_Value_MaxMin {

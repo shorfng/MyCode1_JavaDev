@@ -2,8 +2,9 @@ package com.loto.api.e.stringbuilder;
 
 /**
  * Author：蓝田_Loto
- * PageName：com.loto.dateformat.b_MemberMethod.java
- * Function：StringBuilder_常用成员方法
+ * <p>PageName：com.loto.dateformat.b_MemberMethod.java
+ * </p>
+ * <p>Function：StringBuilder_常用成员方法
  */
 
 /*

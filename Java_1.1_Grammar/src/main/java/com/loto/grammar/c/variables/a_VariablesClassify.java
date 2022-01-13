@@ -2,8 +2,9 @@ package com.loto.grammar.c.variables;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_VariablesClassify.java
- * Function：变量的分类
+ * <p>PageName：a_VariablesClassify.java
+ * </p>
+ * <p>Function：变量的分类
  */
 
 public class a_VariablesClassify {

@@ -2,8 +2,9 @@ package com.loto.oriented.e.encapsulation.a.settergetter;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：封装 - setter和getter用法
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：封装 - setter和getter用法
  */
 
 public class Main {

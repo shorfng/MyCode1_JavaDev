@@ -2,8 +2,9 @@ package com.loto.oriented.h.interfaces.e.interfaceextends;
 
 /**
  * Author：蓝田_Loto
- * PageName：.java
- * Function：接口的多继承（实现了接口C，需要重写C中全部的抽象方法，并且因为C继承了AB，所以需要重写ABC中所有的抽象方法）
+ * <p>PageName：.java
+ * </p>
+ * <p>Function：接口的多继承（实现了接口C，需要重写C中全部的抽象方法，并且因为C继承了AB，所以需要重写ABC中所有的抽象方法）
  */
 
 public class MyImplement implements Interface_C {

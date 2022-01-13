@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.e.abstractclass;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：抽象类
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：抽象类
  */
 
 public class Main {

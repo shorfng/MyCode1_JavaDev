@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.b.DIP;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-03 15:47
- * PageName：PythonCourse.java
- * Function：Python课程类
+ * <p>PageName：PythonCourse.java
+ * </p>
+ * <p>Function：Python课程类
  */
 
 public class PythonCourse implements ICourse {

@@ -7,8 +7,9 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-24 13:59
- * PageName：b_compare.java
- * Function：读取文件效率对比（缓冲流与普通流）
+ * <p>PageName：b_compare.java
+ * </p>
+ * <p>Function：读取文件效率对比（缓冲流与普通流）
  */
 
 public class b_compare {

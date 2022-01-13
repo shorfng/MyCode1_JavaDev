@@ -2,8 +2,9 @@ package com.loto.oriented.g.polymorphism.a.normalclass;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：普通类的多态（定义和调用）
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：普通类的多态（定义和调用）
  */
 
 public class Main {

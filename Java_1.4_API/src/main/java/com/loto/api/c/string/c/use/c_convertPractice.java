@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_convertPractice.java
- * Function：键盘录入一个字符串，把该字符串的首字母转成大写，其余为小写
+ * <p>PageName：c_convertPractice.java
+ * </p>
+ * <p>Function：键盘录入一个字符串，把该字符串的首字母转成大写，其余为小写
  */
 
 public class c_convertPractice {

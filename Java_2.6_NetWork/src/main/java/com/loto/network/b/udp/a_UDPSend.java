@@ -8,8 +8,9 @@ import java.net.InetAddress;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-28 15:26
- * PageName：a_UDPSend.java
- * Function：UDP发送端
+ * <p>PageName：a_UDPSend.java
+ * </p>
+ * <p>Function：UDP发送端
  */
 
 public class a_UDPSend {

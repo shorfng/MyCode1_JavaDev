@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.d.ISP.a;
 /**
  * Author：蓝田_Loto
  * Date：2020-08-25 23:40
- * PageName：Animal.java
- * Function：
+ * <p>PageName：Animal.java
+ * </p>
+ * <p>Function：
  */
 
 public interface IAnimal {

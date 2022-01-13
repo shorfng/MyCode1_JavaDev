@@ -2,8 +2,9 @@ package com.loto.oriented.a.method;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Invocation.java
- * Function：方法调用
+ * <p>PageName：b_Invocation.java
+ * </p>
+ * <p>Function：方法调用
  */
 
 public class b_Invocation {

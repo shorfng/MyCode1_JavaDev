@@ -2,8 +2,9 @@ package com.loto.oriented.g.polymorphism.d.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：多态
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：多态
  */
 
 public class Main {

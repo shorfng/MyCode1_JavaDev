@@ -5,8 +5,9 @@ import java.util.*;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 22:20
- * PageName：a_Collection_Struct.java
- * Function：集合的类层次结构
+ * <p>PageName：a_Collection_Struct.java
+ * </p>
+ * <p>Function：集合的类层次结构
  */
 
 public class a_Collection_Struct {

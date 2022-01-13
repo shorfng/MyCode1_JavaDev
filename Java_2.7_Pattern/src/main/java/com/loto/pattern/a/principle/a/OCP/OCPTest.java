@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.a.OCP;
 /**
  * Author：蓝田_Loto
  * Date：2019-07-05 13:48
- * PageName：OpenCloseTest.java
- * Function：开闭原则测试类
+ * <p>PageName：OpenCloseTest.java
+ * </p>
+ * <p>Function：开闭原则测试类
  */
 
 public class OCPTest {

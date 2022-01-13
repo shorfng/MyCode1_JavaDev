@@ -3,8 +3,9 @@ package com.loto.multithread.b.thread;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 16:22
- * PageName：a_Thread.java
- * Function：Thread类
+ * <p>PageName：a_Thread.java
+ * </p>
+ * <p>Function：Thread类
  */
 
 public class a_Thread {

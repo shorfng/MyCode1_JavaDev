@@ -2,8 +2,9 @@ package com.loto.oriented.h.interfaces.d.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：MyInterface.java
- * Function：接口的定义（定义成员变量和成员方法）
+ * <p>PageName：MyInterface.java
+ * </p>
+ * <p>Function：接口的定义（定义成员变量和成员方法）
  */
 
 public interface MyInterface {

@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.algorithm;
 
 /**
  * Author：蓝田_Loto
- * PageName：Search_Binary.java
- * Function：折半查找
+ * <p>PageName：Search_Binary.java
+ * </p>
+ * <p>Function：折半查找
  */
 
 public class Search_Binary {

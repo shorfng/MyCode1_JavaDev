@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.c.innerclass.local;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：局部内部类
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：局部内部类
  */
 
 public class Main {

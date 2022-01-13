@@ -5,8 +5,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_Practice.java
- * Function：猜数字（系统产生一个1-100之间的随机数，请猜出这个数据是多少）
+ * <p>PageName：b_Practice.java
+ * </p>
+ * <p>Function：猜数字（系统产生一个1-100之间的随机数，请猜出这个数据是多少）
  */
 
 public class b_Practice {

@@ -2,8 +2,9 @@ package com.loto.oriented.c.object.b.anonymous;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：匿名对象
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：匿名对象
  */
 
 public class Main {

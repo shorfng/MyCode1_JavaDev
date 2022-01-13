@@ -3,8 +3,9 @@ package com.loto.classloader;
 /**
  * Author：蓝田_Loto
  * Date：2018-04-18 02:31
- * PageName：c_Initialization.java.java
- * Function：类的初始化
+ * <p>PageName：c_Initialization.java.java
+ * </p>
+ * <p>Function：类的初始化
  */
 
 class MyTest1 {

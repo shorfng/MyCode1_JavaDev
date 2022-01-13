@@ -2,8 +2,9 @@ package com.loto.oriented.b.constructor.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：构造器的作用
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：构造器的作用
  *         （1）创建对象（必须是和new一起使用）（创建对象其实是在调用构造器）
  *         （2）完成对象的初始化操作
  */

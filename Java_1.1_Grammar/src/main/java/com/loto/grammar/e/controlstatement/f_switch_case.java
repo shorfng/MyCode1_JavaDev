@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：f_switch_case.java
- * Function：switch case 循环语句
+ * <p>PageName：f_switch_case.java
+ * </p>
+ * <p>Function：switch case 循环语句
  */
 
 public class f_switch_case {

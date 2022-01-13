@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.b.DIP;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-03 15:32
- * PageName：DIPTest.java
- * Function：依赖倒置原则测试类
+ * <p>PageName：DIPTest.java
+ * </p>
+ * <p>Function：依赖倒置原则测试类
  */
 
 public class DIPTest {

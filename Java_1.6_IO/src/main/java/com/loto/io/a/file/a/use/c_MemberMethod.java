@@ -6,31 +6,38 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-21 14:53
- * PageName：c_MemberMethod.java
- * Function：File类_成员方法
+ * <p>PageName：c_MemberMethod.java
+ * </p>
+ * <p>Function：File类_成员方法
  */
 
 public class c_MemberMethod {
     public static void main(String[] args) throws IOException {
         System.out.println("====== mkdirs() 创建多层文件夹 ======");
-        function_1();
+        </p>
+ * <p>Function_1();
 
         System.out.println("====== createNewFile()  创建的文件路径和文件名 ======");
-        function_2();
+        </p>
+ * <p>Function_2();
 
         System.out.println("====== delete()  删除的文件或者是文件夹 ======");
-        function_3();
+        </p>
+ * <p>Function_3();
 
         System.out.println("====== File类的获取功能 ======");
-        function_4();
+        </p>
+ * <p>Function_4();
 
         System.out.println("====== 获取一个目录中的所有文件/文件夹 ======");
-        function_5();
+        </p>
+ * <p>Function_5();
     }
 
     // File创建文件夹功能
     // [boolean] mkdirs()  创建多层文件夹（如果文件夹已经存在了，则不再创建）
-    private static void function_1() {
+    private static void </p>
+ * <p>Function_1() {
         File dirs = new File("d:\\abc");
         boolean b = dirs.mkdirs();
 
@@ -39,7 +46,8 @@ public class c_MemberMethod {
 
     // File创建文件的功能
     // [boolean] createNewFile()  创建的文件路径和文件名（如果文件已经存在了,则不再创建，如果路径错误，IOException）
-    private static void function_2() throws IOException {
+    private static void </p>
+ * <p>Function_2() throws IOException {
         File file = new File("d:\\abc\\a.txt");
         boolean b = file.createNewFile();
 
@@ -48,7 +56,8 @@ public class c_MemberMethod {
 
     // File类的删除功能
     // [boolean] delete()  删除的文件或者是文件夹（删除成功返回true，删除失败返回false。删除方法,不走回收站,直接从硬盘中删除）
-    private static void function_3() {
+    private static void </p>
+ * <p>Function_3() {
         File file = new File("d:\\abc\\a.txt");
         boolean b = file.delete();
 
@@ -56,7 +65,8 @@ public class c_MemberMethod {
     }
 
     // File类的获取功能
-    private static void function_4() throws IOException {
+    private static void </p>
+ * <p>Function_4() throws IOException {
         String s = "a.txt";
         File file = new File(s);
         final boolean b = file.createNewFile();
@@ -73,7 +83,8 @@ public class c_MemberMethod {
     }
 
     // 获取一个目录中的所有文件夹下的所有文件
-    private static void function_5() {
+    private static void </p>
+ * <p>Function_5() {
         File dir = new File("d:\\TD");
         boolean b = dir.mkdirs();
         System.out.println(b);

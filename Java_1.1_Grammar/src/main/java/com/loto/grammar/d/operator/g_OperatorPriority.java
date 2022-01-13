@@ -2,8 +2,9 @@ package com.loto.grammar.d.operator;
 
 /**
  * Author：蓝田_Loto
- * PageName：g_OperatorPriority.java
- * Function：运算符优先级
+ * <p>PageName：g_OperatorPriority.java
+ * </p>
+ * <p>Function：运算符优先级
  */
 
 public class g_OperatorPriority {

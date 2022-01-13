@@ -8,8 +8,9 @@ import java.util.Iterator;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 19:15
- * PageName：b_WildcardCharacter.java
- * Function：泛型 - 通配符
+ * <p>PageName：b_WildcardCharacter.java
+ * </p>
+ * <p>Function：泛型 - 通配符
  */
 
 public class b_WildcardCharacter {

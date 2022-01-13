@@ -6,8 +6,9 @@ import java.util.List;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-26 19:54
- * PageName：a_Annotation_JDK.java
- * Function：JDK提供的注解
+ * <p>PageName：a_Annotation_JDK.java
+ * </p>
+ * <p>Function：JDK提供的注解
  */
 
 // all：忽略所有警告

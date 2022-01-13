@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 19:15
- * PageName：a_Genericity.java
- * Function：泛型
+ * <p>PageName：a_Genericity.java
+ * </p>
+ * <p>Function：泛型
  */
 
 public class a_Genericity {

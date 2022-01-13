@@ -2,8 +2,9 @@ package com.loto.grammar.e.controlstatement;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_if.java
- * Function：if 语句的第1种格式 if( ){ }
+ * <p>PageName：a_if.java
+ * </p>
+ * <p>Function：if 语句的第1种格式 if( ){ }
  */
 
 public class a_if {

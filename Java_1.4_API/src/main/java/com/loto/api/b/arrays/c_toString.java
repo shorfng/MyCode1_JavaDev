@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_toString.java
- * Function：数组变成字符串
+ * <p>PageName：c_toString.java
+ * </p>
+ * <p>Function：数组变成字符串
  */
 
 // static [String] toString(int[] a)

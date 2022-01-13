@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_countString.java
- * Function：统计字符串中大写、小写及数字字符个数
+ * <p>PageName：b_countString.java
+ * </p>
+ * <p>Function：统计字符串中大写、小写及数字字符个数
  */
 
 public class b_countString {

@@ -2,8 +2,9 @@ package com.loto.oriented.h.interfaces.a.firstinterface;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：接口的使用
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：接口的使用
  */
 
 public class Main {
@@ -12,6 +13,7 @@ public class Main {
 		MyImplement my = new MyImplement();
 
 		// 调用接口中的成员方法
-		my.function();
+		my.</p>
+ * <p>Function();
 	}
 }

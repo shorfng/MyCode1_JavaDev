@@ -2,8 +2,9 @@ package com.loto.api.c.string.a.construct;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_CreatString_Original.java
- * Function：使用new关键字创建对象（original原始创建方法）（new出来的字符串对象存放在堆中）
+ * <p>PageName：b_CreatString_Original.java
+ * </p>
+ * <p>Function：使用new关键字创建对象（original原始创建方法）（new出来的字符串对象存放在堆中）
  */
 
 // String(String original)

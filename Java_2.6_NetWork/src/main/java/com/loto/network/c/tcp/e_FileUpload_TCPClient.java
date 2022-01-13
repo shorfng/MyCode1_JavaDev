@@ -6,8 +6,9 @@ import java.net.Socket;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-28 16:28
- * PageName：e_FileUpload_TCPClient.java
- * Function：文件上传_客户端
+ * <p>PageName：e_FileUpload_TCPClient.java
+ * </p>
+ * <p>Function：文件上传_客户端
  */
 
 public class e_FileUpload_TCPClient {

@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.one.array;
 
 /**
  * Author：蓝田_Loto
- * PageName：Practice_ElementSum.java
- * Function：求元素和
+ * <p>PageName：Practice_ElementSum.java
+ * </p>
+ * <p>Function：求元素和
  */
 
 public class Practice_ElementSum {

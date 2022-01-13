@@ -5,8 +5,9 @@ import java.util.HashSet;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 17:34
- * PageName：b_HashSet_hashcode.java
- * Function：HashSet_hashcode
+ * <p>PageName：b_HashSet_hashcode.java
+ * </p>
+ * <p>Function：HashSet_hashcode
  */
 
 public class b_HashSet_hashcode {

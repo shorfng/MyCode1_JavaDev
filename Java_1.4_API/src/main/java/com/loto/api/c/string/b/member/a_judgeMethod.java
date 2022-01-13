@@ -2,8 +2,9 @@ package com.loto.api.c.string.b.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_judgeMethod.java
- * Function：String常用成员方法 - 判断功能方法
+ * <p>PageName：a_judgeMethod.java
+ * </p>
+ * <p>Function：String常用成员方法 - 判断功能方法
  */
 
 /*

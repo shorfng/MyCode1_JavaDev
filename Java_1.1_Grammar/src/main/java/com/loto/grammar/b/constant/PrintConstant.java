@@ -2,8 +2,9 @@ package com.loto.grammar.b.constant;
 
 /**
  * Author：蓝田_Loto
- * PageName：PrintConstant.java
- * Function：打印6种字面值常量
+ * <p>PageName：PrintConstant.java
+ * </p>
+ * <p>Function：打印6种字面值常量
  */
 
 public class PrintConstant {

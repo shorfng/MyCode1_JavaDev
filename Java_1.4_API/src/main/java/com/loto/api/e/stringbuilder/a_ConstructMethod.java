@@ -2,8 +2,9 @@ package com.loto.api.e.stringbuilder;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_ConstructMethod.java
- * Function：StringBuilder_构造方法
+ * <p>PageName：a_ConstructMethod.java
+ * </p>
+ * <p>Function：StringBuilder_构造方法
  */
 
 /*

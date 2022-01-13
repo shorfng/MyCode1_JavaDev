@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.c.SRP.interfaces;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-04 13:47
- * PageName：ICourseManager.java
- * Function：课程的权限（接口层面的单一职责原则）
+ * <p>PageName：ICourseManager.java
+ * </p>
+ * <p>Function：课程的权限（接口层面的单一职责原则）
  */
 
 public interface ICourseManager {

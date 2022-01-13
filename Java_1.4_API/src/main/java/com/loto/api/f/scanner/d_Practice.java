@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_Practice.java
- * Function：输入、打印
+ * <p>PageName：d_Practice.java
+ * </p>
+ * <p>Function：输入、打印
  */
 
 public class d_Practice {

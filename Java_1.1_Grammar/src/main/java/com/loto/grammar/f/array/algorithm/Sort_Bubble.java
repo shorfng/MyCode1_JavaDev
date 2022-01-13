@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.algorithm;
 
 /**
  * Author：蓝田_Loto
- * PageName：Sort_Bubble.java
- * Function：冒泡排序算法
+ * <p>PageName：Sort_Bubble.java
+ * </p>
+ * <p>Function：冒泡排序算法
  */
 
 /* 思路

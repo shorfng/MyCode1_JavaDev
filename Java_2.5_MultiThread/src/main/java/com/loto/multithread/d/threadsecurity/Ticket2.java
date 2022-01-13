@@ -3,8 +3,9 @@ package com.loto.multithread.d.threadsecurity;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 19:08
- * PageName：Ticket2.java
- * Function：解决线程安全问题方式2_同步方法
+ * <p>PageName：Ticket2.java
+ * </p>
+ * <p>Function：解决线程安全问题方式2_同步方法
  */
 
 public class Ticket2 implements Runnable {

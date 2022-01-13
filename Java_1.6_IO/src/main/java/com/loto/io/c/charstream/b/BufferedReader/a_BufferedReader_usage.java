@@ -7,8 +7,9 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-24 16:37
- * PageName：a_BufferedReader_usage.java
- * Function：BufferedReader（字符缓冲输入流/缓冲流/高效流）
+ * <p>PageName：a_BufferedReader_usage.java
+ * </p>
+ * <p>Function：BufferedReader（字符缓冲输入流/缓冲流/高效流）
  */
 
 public class a_BufferedReader_usage {

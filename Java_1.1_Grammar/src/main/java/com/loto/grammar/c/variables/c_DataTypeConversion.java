@@ -2,8 +2,9 @@ package com.loto.grammar.c.variables;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_DataTypeConversion.java
- * Function：变量的数据类型转换
+ * <p>PageName：c_DataTypeConversion.java
+ * </p>
+ * <p>Function：变量的数据类型转换
  */
 
 public class c_DataTypeConversion {

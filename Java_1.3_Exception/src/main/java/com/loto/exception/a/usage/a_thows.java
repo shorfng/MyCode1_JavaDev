@@ -2,8 +2,9 @@ package com.loto.exception.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_thows.java
- * Function：异常的声明和抛出
+ * <p>PageName：a_thows.java
+ * </p>
+ * <p>Function：异常的声明和抛出
  */
 
 public class a_thows {

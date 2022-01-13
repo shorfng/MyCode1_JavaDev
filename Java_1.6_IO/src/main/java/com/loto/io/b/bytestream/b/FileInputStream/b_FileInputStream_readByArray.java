@@ -7,8 +7,9 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-22 14:57
- * PageName：b_FileInputStream_readByArray.java
- * Function：读取数据（通过使用字节数组读取文件）
+ * <p>PageName：b_FileInputStream_readByArray.java
+ * </p>
+ * <p>Function：读取数据（通过使用字节数组读取文件）
  */
 
 // [int] read(byte[] b)

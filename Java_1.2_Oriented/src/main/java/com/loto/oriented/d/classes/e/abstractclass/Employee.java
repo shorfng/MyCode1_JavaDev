@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.e.abstractclass;
 
 /**
  * Author：蓝田_Loto
- * PageName：Employee.java
- * Function：抽象类 - 员工
+ * <p>PageName：Employee.java
+ * </p>
+ * <p>Function：抽象类 - 员工
  */
 
 abstract class Employee {

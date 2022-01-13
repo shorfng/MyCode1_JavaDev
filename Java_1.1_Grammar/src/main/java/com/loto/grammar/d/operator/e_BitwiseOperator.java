@@ -2,8 +2,9 @@ package com.loto.grammar.d.operator;
 
 /**
  * Author：蓝田_Loto
- * PageName：e_BitwiseOperator.java
- * Function：位运算符（& | ^ ~  << >>）
+ * <p>PageName：e_BitwiseOperator.java
+ * </p>
+ * <p>Function：位运算符（& | ^ ~  << >>）
  */
 
 public class e_BitwiseOperator {

@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_binarySearch.java
- * Function：数组的二分查找法
+ * <p>PageName：a_binarySearch.java
+ * </p>
+ * <p>Function：数组的二分查找法
  */
 
 // static [int] binarySearch(int[] a, int key)

@@ -2,8 +2,9 @@ package com.loto.oriented.f.inheritance.a.extendsKeyword;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：继承 extends
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：继承 extends
  */
 
 public class Main {

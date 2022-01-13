@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.b.DIP;
 /**
  * Author：蓝田_Loto
  * Date：2019-07-08 17:18
- * PageName：Student.java
- * Function：学生类
+ * <p>PageName：Student.java
+ * </p>
+ * <p>Function：学生类
  */
 
 public class Student {

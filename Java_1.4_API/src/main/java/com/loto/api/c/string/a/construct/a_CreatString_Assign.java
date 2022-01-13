@@ -2,8 +2,9 @@ package com.loto.api.c.string.a.construct;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_CreatString_Assign.java
- * Function：使用字面值常量创建字符串（创建的字符串一旦生成，在常量池中不可变，共享同一片内存区域，以后再创建相同的内容也只有一份）
+ * <p>PageName：a_CreatString_Assign.java
+ * </p>
+ * <p>Function：使用字面值常量创建字符串（创建的字符串一旦生成，在常量池中不可变，共享同一片内存区域，以后再创建相同的内容也只有一份）
  */
 
 public class a_CreatString_Assign {

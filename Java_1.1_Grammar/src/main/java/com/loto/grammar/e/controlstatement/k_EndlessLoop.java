@@ -2,8 +2,9 @@ package com.loto.grammar.e.controlstatement;
 
 /**
  * Author：蓝田_Loto
- * PageName：k_EndlessLoop.java
- * Function：死循环
+ * <p>PageName：k_EndlessLoop.java
+ * </p>
+ * <p>Function：死循环
  */
 
 public class k_EndlessLoop {

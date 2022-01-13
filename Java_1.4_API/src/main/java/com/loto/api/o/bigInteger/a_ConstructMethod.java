@@ -5,8 +5,9 @@ import java.math.BigInteger;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-03 22:39
- * PageName：a_ConstructMethod.java
- * Function：BigInteger_构造方法
+ * <p>PageName：a_ConstructMethod.java
+ * </p>
+ * <p>Function：BigInteger_构造方法
  */
 
 public class a_ConstructMethod {

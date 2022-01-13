@@ -2,8 +2,9 @@ package com.loto.oriented.f.inheritance.b.override;
 
 /**
  * Author：蓝田_Loto
- * PageName：Student.java
- * Function：子类 Student
+ * <p>PageName：Student.java
+ * </p>
+ * <p>Function：子类 Student
  */
 
 public class Student extends Person {

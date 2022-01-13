@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.c.SRP.method;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-04 13:51
- * PageName：Method.java
- * Function：方法层面的单一职责原则
+ * <p>PageName：Method.java
+ * </p>
+ * <p>Function：方法层面的单一职责原则
  */
 
 public class Method {

@@ -9,8 +9,9 @@ import java.util.Scanner;
 /**
  * Author：蓝田_Loto
  * Date：2018-11-30 0:01
- * PageName：Practice01_birthday.java
- * Function：求出自己已经出生多少天
+ * <p>PageName：Practice01_birthday.java
+ * </p>
+ * <p>Function：求出自己已经出生多少天
  */
 
 public class Practice01_birthday {

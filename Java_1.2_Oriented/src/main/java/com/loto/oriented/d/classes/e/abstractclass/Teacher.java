@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.e.abstractclass;
 
 /**
  * Author：蓝田_Loto
- * PageName：Teacher.java
- * Function：讲师 - 继承员工类
+ * <p>PageName：Teacher.java
+ * </p>
+ * <p>Function：讲师 - 继承员工类
  */
 
 public class Teacher extends Employee {

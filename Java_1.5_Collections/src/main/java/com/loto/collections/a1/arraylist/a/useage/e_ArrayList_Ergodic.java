@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 14:28
- * PageName：e_ArrayList_Ergodic.java
- * Function：ArrayList_遍历
+ * <p>PageName：e_ArrayList_Ergodic.java
+ * </p>
+ * <p>Function：ArrayList_遍历
  */
 
 public class e_ArrayList_Ergodic {

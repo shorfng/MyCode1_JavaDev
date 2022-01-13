@@ -2,8 +2,9 @@ package com.loto.oriented.i.codeblock;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_initCodeBlock.java
- * Function：初始化代码块/构造代码块（直接定义在类中方法外，用来给对象中的成员初始化赋值的代码块）
+ * <p>PageName：b_initCodeBlock.java
+ * </p>
+ * <p>Function：初始化代码块/构造代码块（直接定义在类中方法外，用来给对象中的成员初始化赋值的代码块）
  */
 
 public class b_initCodeBlock {

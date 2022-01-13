@@ -2,8 +2,9 @@ package com.loto.oriented.h.interfaces.d.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：MyImplement.java
- * Function：接口的实现（重写接口中的抽象方法）
+ * <p>PageName：MyImplement.java
+ * </p>
+ * <p>Function：接口的实现（重写接口中的抽象方法）
  */
 
 public class MyImplement implements MyInterface {

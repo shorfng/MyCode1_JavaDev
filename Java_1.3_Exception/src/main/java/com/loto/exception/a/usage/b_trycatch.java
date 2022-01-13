@@ -2,8 +2,9 @@ package com.loto.exception.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_trycatch.java
- * Function：捕获异常
+ * <p>PageName：b_trycatch.java
+ * </p>
+ * <p>Function：捕获异常
  */
 
 public class b_trycatch {

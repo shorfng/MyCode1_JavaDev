@@ -5,8 +5,9 @@ import java.io.File;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-21 13:18
- * PageName：a_StaticFields.java
- * Function：File类_静态成员变量
+ * <p>PageName：a_StaticFields.java
+ * </p>
+ * <p>Function：File类_静态成员变量
  */
 
 public class a_StaticFields {

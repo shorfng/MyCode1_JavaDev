@@ -6,19 +6,24 @@ import java.util.List;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 13:56
- * PageName：d_ArrayList_ImplementMethod.java
- * Function：ArrayList_实现类方法
+ * <p>PageName：d_ArrayList_ImplementMethod.java
+ * </p>
+ * <p>Function：ArrayList_实现类方法
  */
 
 public class d_ArrayList_ImplementMethod {
 	public static void main(String[] args) {
-		function1();
-		function2();
-		function3();
+		</p>
+ * <p>Function1();
+		</p>
+ * <p>Function2();
+		</p>
+ * <p>Function3();
 	}
 
 	// add(int index, E) 将元素插入到列表的指定索引上 带有索引的操作,防止越界问题
-	private static void function1() {
+	private static void </p>
+ * <p>Function1() {
 		List<String> list = new ArrayList<>();
 		list.add("abc1");
 		list.add("abc2");
@@ -31,7 +36,8 @@ public class d_ArrayList_ImplementMethod {
 	}
 
 	// E remove(int index) 移除指定索引上的元素 返回被删除之前的元素
-	private static void function2() {
+	private static void </p>
+ * <p>Function2() {
 		List<Double> list = new ArrayList<>();
 		list.add(1.1);
 		list.add(1.2);
@@ -46,7 +52,8 @@ public class d_ArrayList_ImplementMethod {
 	}
 
 	// E set(int index, E) 修改指定索引上的元素 返回被修改之前的元素
-	private static void function3() {
+	private static void </p>
+ * <p>Function3() {
 		List<Integer> list = new ArrayList<>();
 		list.add(1);
 		list.add(2);

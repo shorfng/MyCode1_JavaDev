@@ -3,8 +3,9 @@ package com.loto.multithread.d.threadsecurity;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 19:38
- * PageName：c_Lock.java
- * Function：解决线程安全问题方式（最终版）_使用Lock接口
+ * <p>PageName：c_Lock.java
+ * </p>
+ * <p>Function：解决线程安全问题方式（最终版）_使用Lock接口
  */
 
 public class c_Lock {

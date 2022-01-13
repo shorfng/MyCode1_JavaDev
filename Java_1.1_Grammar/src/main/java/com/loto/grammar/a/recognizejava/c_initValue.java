@@ -2,8 +2,9 @@ package com.loto.grammar.a.recognizejava;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_initValue.java
- * Function：创建一个类，包含一个int域和一个char域，它们都没有被初始化，将它们的值打印出来，以验证Java执行了默认初始化
+ * <p>PageName：c_initValue.java
+ * </p>
+ * <p>Function：创建一个类，包含一个int域和一个char域，它们都没有被初始化，将它们的值打印出来，以验证Java执行了默认初始化
  */
 
 public class c_initValue {
@@ -21,4 +22,4 @@ public class c_initValue {
     }
 }
 
-/* 结论：Java执行了默认初始化 */
+/* 结论：Java 执行了默认初始化 */

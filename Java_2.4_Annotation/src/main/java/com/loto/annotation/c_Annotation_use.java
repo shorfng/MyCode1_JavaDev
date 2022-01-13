@@ -3,8 +3,9 @@ package com.loto.annotation;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-26 20:00
- * PageName：c_Annotation_use.java
- * Function：使用注解
+ * <p>PageName：c_Annotation_use.java
+ * </p>
+ * <p>Function：使用注解
  */
 
 public class c_Annotation_use {

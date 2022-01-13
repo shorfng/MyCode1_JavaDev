@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：e_switch.java
- * Function：switch 循环语句
+ * <p>PageName：e_switch.java
+ * </p>
+ * <p>Function：switch 循环语句
  */
 
 // 根据键盘录入的数值 1、2、3...7 输出对应的星期一、星期二、星期三...星期日

@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_if_else.java
- * Function：if 语句的第2种格式 if(){ } else{ }
+ * <p>PageName：b_if_else.java
+ * </p>
+ * <p>Function：if 语句的第2种格式 if(){ } else{ }
  */
 
 public class b_if_else {

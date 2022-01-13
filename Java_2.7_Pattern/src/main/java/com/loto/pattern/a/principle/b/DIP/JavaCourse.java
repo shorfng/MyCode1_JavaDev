@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.b.DIP;
 /**
  * Author：蓝田_Loto
  * Date：2020-06-03 15:45
- * PageName：JavaCourse.java
- * Function：Java课程类
+ * <p>PageName：JavaCourse.java
+ * </p>
+ * <p>Function：Java课程类
  */
 
 public class JavaCourse implements ICourse {

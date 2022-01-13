@@ -2,8 +2,9 @@ package com.loto.oriented.i.codeblock;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_LocalCodeBlock.java
- * Function：局部代码块（直接定义在方法内部的代码块，用来限制变量的作用范围）
+ * <p>PageName：a_LocalCodeBlock.java
+ * </p>
+ * <p>Function：局部代码块（直接定义在方法内部的代码块，用来限制变量的作用范围）
  */
 
 public class a_LocalCodeBlock {

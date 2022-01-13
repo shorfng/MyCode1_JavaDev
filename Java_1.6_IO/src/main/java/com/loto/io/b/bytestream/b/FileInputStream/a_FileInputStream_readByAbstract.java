@@ -6,8 +6,9 @@ import java.io.IOException;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-22 14:28
- * PageName：a_FileInputStream_readByAbstract.java
- * Function：读取数据（通过抽象方法）
+ * <p>PageName：a_FileInputStream_readByAbstract.java
+ * </p>
+ * <p>Function：读取数据（通过抽象方法）
  */
 
 // [abstract int] read( )

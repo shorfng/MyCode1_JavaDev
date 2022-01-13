@@ -3,8 +3,9 @@ package com.loto.reflect;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-26 13:35
- * PageName：a_Class.java
- * Function：Class获得方式
+ * <p>PageName：a_Class.java
+ * </p>
+ * <p>Function：Class获得方式
  */
 
 public class a_Class {

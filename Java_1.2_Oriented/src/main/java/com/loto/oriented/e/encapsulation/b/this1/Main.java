@@ -2,8 +2,9 @@ package com.loto.oriented.e.encapsulation.b.this1;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：this使用场景
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：this使用场景
  *          1、解决成员变量和局部变量（参数）之间的重名问题
  *          2、同类中实例方法之间的互相调用问题
  */

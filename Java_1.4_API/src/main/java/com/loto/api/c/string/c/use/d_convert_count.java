@@ -2,8 +2,9 @@ package com.loto.api.c.string.c.use;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_convert_count.java
- * Function：查询大字符串中，出现指定小字符串的次数
+ * <p>PageName：d_convert_count.java
+ * </p>
+ * <p>Function：查询大字符串中，出现指定小字符串的次数
  */
 
 public class d_convert_count {

@@ -2,8 +2,9 @@ package com.loto.oriented.e.encapsulation.c.this2;
 
 /**
  * Author：蓝田_Loto
- * PageName：.java
- * Function：this使用场景：解决构造器重载时的互相调用问题
+ * <p>PageName：.java
+ * </p>
+ * <p>Function：this使用场景：解决构造器重载时的互相调用问题
  */
 
 public class Main {

@@ -7,10 +7,12 @@ public class Main {
 
 		// 创建一个狗对象
 		Dog dog = new Dog();
-		p.function(dog); // 狗看家
+		p.</p>
+ * <p>Function(dog); // 狗看家
 
 		// 创建一个猫对象
 		Cat cat = new Cat();
-		p.function(cat); // 猫捉老鼠
+		p.</p>
+ * <p>Function(cat); // 猫捉老鼠
 	}
 }

@@ -5,8 +5,8 @@ import java.util.Properties;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_ShowProperties.java
- * Function：获取系统和Java相关的信息
+ * <p>PageName：b_ShowProperties.java</p>
+ * <p>Function：获取系统和Java相关的信息</p>
  */
 
 public class b_ShowProperties {

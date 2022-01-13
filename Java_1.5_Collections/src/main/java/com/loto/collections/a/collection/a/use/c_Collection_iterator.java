@@ -7,8 +7,9 @@ import java.util.Iterator;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-04 22:43
- * PageName：c_Collection_iterator.java
- * Function：Collection_遍历
+ * <p>PageName：c_Collection_iterator.java
+ * </p>
+ * <p>Function：Collection_遍历
  */
 
 public class c_Collection_iterator {

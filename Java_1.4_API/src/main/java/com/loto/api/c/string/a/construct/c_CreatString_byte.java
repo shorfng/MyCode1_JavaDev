@@ -2,8 +2,9 @@ package com.loto.api.c.string.a.construct;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_CreatString_byte.java
- * Function：字节数组 -> 字符串
+ * <p>PageName：c_CreatString_byte.java
+ * </p>
+ * <p>Function：字节数组 -> 字符串
  */
 
 public class c_CreatString_byte {

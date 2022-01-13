@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_Define.java
- * Function：方法定义
+ * <p>PageName：a_Define.java
+ * </p>
+ * <p>Function：方法定义
  */
 
 public class a_Define {

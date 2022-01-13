@@ -2,8 +2,9 @@ package com.loto.oriented.b.constructor.b.overload;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：构造器的重载
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：构造器的重载
  */
 
 public class Main {

@@ -1,5 +1,6 @@
 package com.loto.oriented.h.interfaces.f.usage;
 
 public interface MyInterface {
-	public abstract void function();
+	public abstract void </p>
+ * <p>Function();
 }

@@ -2,8 +2,9 @@ package com.loto.exception.b.customexception;
 
 /**
  * Author：蓝田_Loto
- * PageName：Test_Avg.java
- * Function：测试-自定义异常
+ * <p>PageName：Test_Avg.java
+ * </p>
+ * <p>Function：测试-自定义异常
  */
 
 public class Test_Avg {

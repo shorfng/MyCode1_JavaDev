@@ -2,8 +2,9 @@ package com.loto.grammar.d.operator;
 
 /**
  * Author：蓝田_Loto
- * PageName：f_TernaryOperator.java
- * Function：三元运算符
+ * <p>PageName：f_TernaryOperator.java
+ * </p>
+ * <p>Function：三元运算符
  */
 
 public class f_TernaryOperator {

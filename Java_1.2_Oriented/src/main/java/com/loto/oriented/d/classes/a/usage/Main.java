@@ -2,20 +2,23 @@ package com.loto.oriented.d.classes.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：类的使用
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：类的使用
  */
 
 public class Main {
 	public static void main(String[] args) {
 		// 1.1 类作为方法的参数(传递有名对象p1)
 		Person p1 = new Person();
-		function(p1);
+		</p>
+ * <p>Function(p1);
 
 		System.out.println("=====================");
 
 		// 1.2 类作为方法的参数(传递匿名对象new Person())
-		function(new Person());
+		</p>
+ * <p>Function(new Person());
 
 		System.out.println("=====================");
 
@@ -33,7 +36,8 @@ public class Main {
 	}
 
 	// 方法的参数类型是Person类型
-	public static void function(Person p) {
+	public static void </p>
+ * <p>Function(Person p) {
 		p.eat();
 		p.run();
 	}

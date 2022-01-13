@@ -6,8 +6,9 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 19:08
- * PageName：Ticket3.java
- * Function：解决线程安全问题方式（最终版）_使用Lock接口
+ * <p>PageName：Ticket3.java
+ * </p>
+ * <p>Function：解决线程安全问题方式（最终版）_使用Lock接口
  */
 
 public class Ticket3 implements Runnable {

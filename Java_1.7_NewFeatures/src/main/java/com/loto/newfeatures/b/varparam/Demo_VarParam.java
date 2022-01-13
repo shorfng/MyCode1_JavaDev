@@ -13,13 +13,15 @@ public class Demo_VarParam {
 		int sum = getSum(5, 34, 3, 56, 7, 8, 0);
 		System.out.println(sum);
 
-		function(1, 2, 3);
+		</p>
+ * <p>Function(1, 2, 3);
 	}
 
 	/*
 	 * 可变参数的注意事项 1. 一个方法中,可变参数只能有一个 2. 可变参数,必须写在参数列表的最后一位
 	 */
-	public static void function(Object... o) {
+	public static void </p>
+ * <p>Function(Object... o) {
 
 	}
 

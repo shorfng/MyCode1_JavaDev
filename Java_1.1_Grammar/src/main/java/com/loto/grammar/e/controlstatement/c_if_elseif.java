@@ -2,8 +2,9 @@ package com.loto.grammar.e.controlstatement;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_if_elseif.java
- * Function：if 语句的第3种格式 if( ){ } else if( ) { }
+ * <p>PageName：c_if_elseif.java
+ * </p>
+ * <p>Function：if 语句的第3种格式 if( ){ } else if( ) { }
  */
 
 /* 代码实现：x 和 y 的关系满足如下

@@ -7,8 +7,9 @@ import org.junit.Test;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-25 18:55
- * PageName：com.loto.junit.a_Junit_usage.java
- * Function：Junit的使用
+ * <p>PageName：com.loto.junit.a_Junit_usage.java
+ * </p>
+ * <p>Function：Junit的使用
  */
 
 public class a_Junit_usage {

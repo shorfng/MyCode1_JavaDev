@@ -2,8 +2,9 @@ package com.loto.oriented.g.polymorphism.g.transition;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：多态的转型
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：多态的转型
  */
 
 public class Main {

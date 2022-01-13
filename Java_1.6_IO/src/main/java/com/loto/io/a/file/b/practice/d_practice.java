@@ -5,8 +5,9 @@ import java.io.File;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-23 12:41
- * PageName：d_practice.java
- * Function：判断一个路径，如果不是文件夹，并且是.java文件，那么把文件更改为.txt文件
+ * <p>PageName：d_practice.java
+ * </p>
+ * <p>Function：判断一个路径，如果不是文件夹，并且是.java文件，那么把文件更改为.txt文件
  */
 
 public class d_practice {

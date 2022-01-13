@@ -2,8 +2,9 @@ package com.loto.oriented.d.classes.b.innerclass.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：成员内部类
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：成员内部类
  */
 
 public class Main {

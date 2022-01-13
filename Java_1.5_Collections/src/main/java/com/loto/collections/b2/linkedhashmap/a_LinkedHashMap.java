@@ -5,8 +5,9 @@ import java.util.LinkedHashMap;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 19:01
- * PageName：a_LinkedHashMap.java
- * Function：LinkedHashMap继承HashMap,保证迭代的顺序
+ * <p>PageName：a_LinkedHashMap.java
+ * </p>
+ * <p>Function：LinkedHashMap继承HashMap,保证迭代的顺序
  */
 
 public class a_LinkedHashMap {

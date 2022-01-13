@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：a_Scanner_use.java
- * Function：Scanner_常用成员方法（获取键盘录入的字符串数据）
+ * <p>PageName：a_Scanner_use.java
+ * </p>
+ * <p>Function：Scanner_常用成员方法（获取键盘录入的字符串数据）
  */
 
 public class a_Scanner_use {

@@ -2,8 +2,9 @@ package com.loto.oriented.h.interfaces.d.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：接口中的成员
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：接口中的成员
  */
 
 public class Main {

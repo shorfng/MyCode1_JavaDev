@@ -2,8 +2,9 @@ package com.loto.api.c.string.b.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_convertMethod.java
- * Function：String常用成员方法 - 转换功能方法
+ * <p>PageName：c_convertMethod.java
+ * </p>
+ * <p>Function：String常用成员方法 - 转换功能方法
  */
 
 /*

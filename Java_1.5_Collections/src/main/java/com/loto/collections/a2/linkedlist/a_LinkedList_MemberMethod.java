@@ -5,8 +5,9 @@ import java.util.LinkedList;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 17:34
- * PageName：a_LinkedList_MemberMethod.java
- * Function：LinkedList_成员方法
+ * <p>PageName：a_LinkedList_MemberMethod.java
+ * </p>
+ * <p>Function：LinkedList_成员方法
  */
 
 public class a_LinkedList_MemberMethod {

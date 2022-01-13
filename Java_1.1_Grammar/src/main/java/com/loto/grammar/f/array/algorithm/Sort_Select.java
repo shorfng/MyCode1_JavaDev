@@ -2,8 +2,9 @@ package com.loto.grammar.f.array.algorithm;
 
 /**
  * Author：蓝田_Loto
- * PageName：Sort_Select.java
- * Function：选择排序算法（升序）
+ * <p>PageName：Sort_Select.java
+ * </p>
+ * <p>Function：选择排序算法（升序）
  */
 
 public class Sort_Select {

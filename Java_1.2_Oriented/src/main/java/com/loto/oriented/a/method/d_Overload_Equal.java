@@ -2,8 +2,9 @@ package com.loto.oriented.a.method;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_Overload_Equal.java
- * Function：方法重载：比较两个数据是否相等
+ * <p>PageName：d_Overload_Equal.java
+ * </p>
+ * <p>Function：方法重载：比较两个数据是否相等
  */
 
 public class d_Overload_Equal {

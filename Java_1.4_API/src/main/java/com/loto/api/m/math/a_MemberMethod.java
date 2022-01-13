@@ -3,8 +3,9 @@ package com.loto.api.m.math;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-03 22:17
- * PageName：a_MemberMethod.java
- * Function：Math_成员方法
+ * <p>PageName：a_MemberMethod.java
+ * </p>
+ * <p>Function：Math_成员方法
  */
 
 public class a_MemberMethod {

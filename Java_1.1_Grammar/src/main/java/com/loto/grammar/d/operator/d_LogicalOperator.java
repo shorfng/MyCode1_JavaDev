@@ -2,8 +2,9 @@ package com.loto.grammar.d.operator;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_LogicalOperator.java
- * Function：逻辑运算符 （ && || ！）
+ * <p>PageName：d_LogicalOperator.java
+ * </p>
+ * <p>Function：逻辑运算符 （ && || ！）
  */
 
 public class d_LogicalOperator {

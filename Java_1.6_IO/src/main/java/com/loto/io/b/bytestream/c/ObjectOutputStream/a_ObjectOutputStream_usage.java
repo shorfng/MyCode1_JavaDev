@@ -7,8 +7,9 @@ import java.io.ObjectOutputStream;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-24 17:19
- * PageName：a_ObjectOutputStream_usage.java
- * Function：ObjectOutputStream（序列化流/从流中读取对象的操作流）
+ * <p>PageName：a_ObjectOutputStream_usage.java
+ * </p>
+ * <p>Function：ObjectOutputStream（序列化流/从流中读取对象的操作流）
  */
 
 // 将一个对象存储到持久化(硬盘)的设备上

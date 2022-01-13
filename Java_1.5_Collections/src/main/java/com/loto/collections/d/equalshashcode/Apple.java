@@ -5,8 +5,9 @@ import java.util.HashMap;
 /**
  * Author：蓝田_Loto
  * Date：2018-04-26 18:29
- * PageName：Apple.java
- * Function：【区别】equals和hashCode方法
+ * <p>PageName：Apple.java
+ * </p>
+ * <p>Function：【区别】equals和hashCode方法
  */
 
 public class Apple {

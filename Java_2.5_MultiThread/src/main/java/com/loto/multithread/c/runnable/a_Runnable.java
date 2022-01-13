@@ -3,8 +3,9 @@ package com.loto.multithread.c.runnable;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-27 18:45
- * PageName：a_Runnable.java
- * Function：Runnable接口
+ * <p>PageName：a_Runnable.java
+ * </p>
+ * <p>Function：Runnable接口
  */
 
 public class a_Runnable {

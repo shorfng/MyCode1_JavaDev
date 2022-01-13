@@ -2,8 +2,9 @@ package com.loto.api.d.stringbuffer;
 
 /**
  * Author：蓝田_Loto
- * PageName：com.loto.dateformat.b_MemberMethod.java
- * Function：StringBuffer_成员方法
+ * <p>PageName：com.loto.dateformat.b_MemberMethod.java
+ * </p>
+ * <p>Function：StringBuffer_成员方法
  */
 
 /*

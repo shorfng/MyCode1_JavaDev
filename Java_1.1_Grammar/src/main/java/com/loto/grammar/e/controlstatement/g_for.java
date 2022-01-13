@@ -2,8 +2,9 @@ package com.loto.grammar.e.controlstatement;
 
 /**
  * Author：蓝田_Loto
- * PageName：g_for.java
- * Function：for 循环语句
+ * <p>PageName：g_for.java
+ * </p>
+ * <p>Function：for 循环语句
  */
 
 public class g_for {

@@ -2,8 +2,9 @@ package com.loto.oriented.c.object.a.usage;
 
 /**
  * Author：蓝田_Loto
- * PageName：Phone.java
- * Function：定义手机类
+ * <p>PageName：Phone.java
+ * </p>
+ * <p>Function：定义手机类
  */
 
 public class Phone {

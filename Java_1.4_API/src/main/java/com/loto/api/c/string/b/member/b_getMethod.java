@@ -2,8 +2,9 @@ package com.loto.api.c.string.b.member;
 
 /**
  * Author：蓝田_Loto
- * PageName：b_getMethod.java
- * Function：String常用成员方法 - 获取功能方法
+ * <p>PageName：b_getMethod.java
+ * </p>
+ * <p>Function：String常用成员方法 - 获取功能方法
  */
 
 /*

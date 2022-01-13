@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_SearchValue.java
- * Function：一维数组查表法(根据键盘录入索引，查找对应值)
+ * <p>PageName：d_SearchValue.java
+ * </p>
+ * <p>Function：一维数组查表法(根据键盘录入索引，查找对应值)
  */
 
 public class d_SearchValue {

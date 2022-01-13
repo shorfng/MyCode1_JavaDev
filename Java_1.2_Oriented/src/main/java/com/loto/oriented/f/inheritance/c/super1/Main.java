@@ -2,8 +2,9 @@ package com.loto.oriented.f.inheritance.c.super1;
 
 /**
  * Author：蓝田_Loto
- * PageName：Main.java
- * Function：super在方法中的使用（在子类方法中，使用super调用父类被覆盖的方法）
+ * <p>PageName：Main.java
+ * </p>
+ * <p>Function：super在方法中的使用（在子类方法中，使用super调用父类被覆盖的方法）
  */
 
 public class Main {

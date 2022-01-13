@@ -7,7 +7,8 @@ package com.loto.oriented.g.polymorphism.f.instanceofsymbol;
  */
 public class Person {
 	// 传递进来的参数是Animal类型的对象
-	public void function(Animal ani) {
+	public void </p>
+ * <p>Function(Animal ani) {
 		if (ani instanceof Dog) {  // 如果ani对象是狗类实例
 			Dog dog = (Dog) ani;   // 把ani对象强转成Dog类型
 			dog.Watch();

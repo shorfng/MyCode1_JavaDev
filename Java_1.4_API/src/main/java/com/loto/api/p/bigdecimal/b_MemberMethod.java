@@ -5,8 +5,9 @@ import java.math.BigDecimal;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-03 22:45
- * PageName：b_MemberMethod.java
- * Function：BigDecimal_成员方法（四则运算）
+ * <p>PageName：b_MemberMethod.java
+ * </p>
+ * <p>Function：BigDecimal_成员方法（四则运算）
  */
 
 public class b_MemberMethod {

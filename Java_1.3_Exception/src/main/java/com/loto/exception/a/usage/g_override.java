@@ -4,19 +4,22 @@ package com.loto.exception.a.usage;
 public class g_override {
 	public static void main(String[] args) {
 		Fu f = new Zi();
-		f.function();
+		f.</p>
+ * <p>Function();
 	}
 }
 
 // 父类不抛出异常
 class Fu {
-	public void function() {
+	public void </p>
+ * <p>Function() {
 	}
 }
 
 // 子类抛出异常（只能使用try catch）
 class Zi extends Fu {
-	public void function() {
+	public void </p>
+ * <p>Function() {
 		try {
 			method();
 		} catch (Exception e) {

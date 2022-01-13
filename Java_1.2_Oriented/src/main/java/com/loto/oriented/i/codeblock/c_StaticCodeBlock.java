@@ -2,8 +2,9 @@ package com.loto.oriented.i.codeblock;
 
 /**
  * Author：蓝田_Loto
- * PageName：c_StaticCodeBlock.java
- * Function：静态代码块（使用static修饰，定义在类中方法外，用来给类的静态成员初始化赋值）
+ * <p>PageName：c_StaticCodeBlock.java
+ * </p>
+ * <p>Function：静态代码块（使用static修饰，定义在类中方法外，用来给类的静态成员初始化赋值）
  */
 
 public class c_StaticCodeBlock {

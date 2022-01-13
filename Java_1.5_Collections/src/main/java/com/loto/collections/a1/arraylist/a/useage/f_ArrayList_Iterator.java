@@ -7,8 +7,9 @@ import java.util.List;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-19 13:56
- * PageName：f_ArrayList_Iterator.java
- * Function：ArrayList_迭代器
+ * <p>PageName：f_ArrayList_Iterator.java
+ * </p>
+ * <p>Function：ArrayList_迭代器
  */
 
 // 在迭代过程中，使用了集合的方法对元素进行操作。导致迭代器并不知道集合中的变化，容易引发数据的不确定性

@@ -2,8 +2,9 @@ package com.loto.api.c.string.c.use;
 
 /**
  * Author：蓝田_Loto
- * PageName：e_splitjointString.java
- * Function：把数组中的数据按照指定格式拼接成一个字符串
+ * <p>PageName：e_splitjointString.java
+ * </p>
+ * <p>Function：把数组中的数据按照指定格式拼接成一个字符串
  */
 
 // 举例：int[] arr = {1,2,3};

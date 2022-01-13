@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
  * Author：蓝田_Loto
- * PageName：d_if_elseif_else.java
- * Function：if 语句的第3种格式 if( ){ } else if( ) { } else{ }
+ * <p>PageName：d_if_elseif_else.java
+ * </p>
+ * <p>Function：if 语句的第3种格式 if( ){ } else if( ) { } else{ }
  */
 
 // 键盘录入两个数据，获取这两个数据的较大值

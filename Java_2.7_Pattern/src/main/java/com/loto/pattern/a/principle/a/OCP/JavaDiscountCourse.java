@@ -3,8 +3,9 @@ package com.loto.pattern.a.principle.a.OCP;
 /**
  * Author：蓝田_Loto
  * Date：2019-07-05 13:44
- * PageName：JavaDiscountCourse.java
- * Function：java课程打折类（继承java课程类：JavaCourse）
+ * <p>PageName：JavaDiscountCourse.java
+ * </p>
+ * <p>Function：java课程打折类（继承java课程类：JavaCourse）
  */
 
 public class JavaDiscountCourse extends JavaCourse {
