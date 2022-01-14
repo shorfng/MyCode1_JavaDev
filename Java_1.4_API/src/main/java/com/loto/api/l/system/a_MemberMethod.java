@@ -3,8 +3,7 @@ package com.loto.api.l.system;
 /**
  * Author：蓝田_Loto
  * Date：2018-12-03 20:06
- * <p>PageName：a_MemberMethod.java
- * </p>
+ * <p>PageName：a_MemberMethod.java</p>
  * <p>Function：System_成员方法
  */
 
@@ -18,33 +17,23 @@ package com.loto.api.l.system;
 
 public class a_MemberMethod {
     public static void main(String[] args) throws InterruptedException {
-        </p>
- * <p>Function_1();
-        System.out.println("======== </p>
- * <p>Function_1 END ========");
+        function_1();
+        System.out.println("======== Function_1 END ========");
 
-        </p>
- * <p>Function_2();
-        System.out.println("======== </p>
- * <p>Function_2 END ========");
+        function_2();
+        System.out.println("======== Function_2 END ========");
 
-        </p>
- * <p>Function_3();
-        System.out.println("======== </p>
- * <p>Function_3 END ========");
+        function_3();
+        System.out.println("======== Function_3 END ========");
 
-        </p>
- * <p>Function_4();
-        System.out.println("======== </p>
- * <p>Function_4 END ========");
+        function_4();
+        System.out.println("======== Function_4 END ========");
 
-        </p>
- * <p>Function_5();
+        function_5();
     }
 
     // [long] currentTimeMillis()  获取当前系统时间与1970年01月01日00:00点之间的毫秒差值
-    private static void </p>
- * <p>Function_1() throws InterruptedException {
+    private static void function_1() throws InterruptedException {
         long start = System.currentTimeMillis();
 
         Thread.sleep(2000);
@@ -54,8 +43,7 @@ public class a_MemberMethod {
     }
 
     // [void] gc()   用来运行JVM中的垃圾回收器，完成内存中垃圾的清除
-    private static void </p>
- * <p>Function_2() {
+    private static void function_2() {
         new Person();
         new Person();
         new Person();
@@ -65,14 +53,12 @@ public class a_MemberMethod {
     }
 
     // [String] getProperty(String key)  用来获取指定键(字符串名称)中所记录的系统属性信息具体信息
-    private static void </p>
- * <p>Function_3() {
+    private static void function_3() {
         System.out.println(System.getProperties());
     }
 
     // [void] arraycopy(xxx)   复制数组
-    private static void </p>
- * <p>Function_4() {
+    private static void function_4() {
         int[] src = {11, 22, 33, 44, 55, 66};  // 源数组
         int[] desc = {77, 88, 99, 0};          // 目标数组
 
@@ -85,8 +71,7 @@ public class a_MemberMethod {
     }
 
     // [void] exit(int status)  用来结束正在运行的Java程序。参数传入一个数字即可。通常传入0记为正常状态，其他为异常状态
-    private static void </p>
- * <p>Function_5() {
+    private static void function_5() {
         while (true) {
             System.out.println("hello");
             System.exit(0);

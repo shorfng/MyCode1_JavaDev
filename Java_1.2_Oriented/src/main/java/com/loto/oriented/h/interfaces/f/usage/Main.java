@@ -2,8 +2,7 @@ package com.loto.oriented.h.interfaces.f.usage;
 
 /**
  * Author：蓝田_Loto
- * <p>PageName：Main.java
- * </p>
+ * <p>PageName：Main.java</p>
  * <p>Function：接口的使用
  */
 
@@ -19,8 +18,7 @@ public class Main {
         // 调用类class的方法Method，获取MyInterface接口的实现类对象
         Class c = new Class();
         MyInterface my = c.Method(); // 方法的执行结果是接口实现类对象new MyImplement()
-        my.</p>
- * <p>Function();
+        my.function();
     }
 
     // 定义方法，方法的参数是接口类型
@@ -28,7 +26,6 @@ public class Main {
     // 接口的使用1：接口作为方法的参数
     public static void show(MyInterface m) {
         // 接口的引用变量m，调用方法
-        m.</p>
- * <p>Function();
+        m.function();
     }
 }

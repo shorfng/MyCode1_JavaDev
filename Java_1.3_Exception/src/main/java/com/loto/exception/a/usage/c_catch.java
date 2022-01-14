@@ -2,8 +2,7 @@ package com.loto.exception.a.usage;
 
 /**
  * Author：蓝田_Loto
- * <p>PageName：c_catch.java
- * </p>
+ * <p>PageName：c_catch.java</p>
  * <p>Function：异常类名的顺序问题
  */
 
@@ -19,14 +18,13 @@ public class c_catch {
 		}
 	}
 
-	public static void </p>
- * <p>Function(int a) throws NullPointerException, Exception {
-		if (a == 0) {
-			throw new NullPointerException();
-		}
+    public static void function(int a) throws NullPointerException, Exception {
+        if (a == 0) {
+            throw new NullPointerException();
+        }
 
-		if (a == 1) {
-			throw new Exception();
-		}
-	}
+        if (a == 1) {
+            throw new Exception();
+        }
+    }
 }
