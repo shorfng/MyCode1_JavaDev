@@ -8,7 +8,6 @@ package com.loto.oriented.h.interfaces.a.firstinterface;
  */
 
 public interface MyInterface {
-	// 在接口中，定义抽象方法
-	public abstract void </p>
- * <p>Function();
+    // 在接口中，定义抽象方法
+    public abstract void function();
 }

@@ -8,9 +8,8 @@ package com.loto.oriented.h.interfaces.b.multiimplement;
  */
 
 public class MyImplement implements Interface_A, Interface_B {
-	// 重写抽象方法
-	public void </p>
- * <p>Function() {
-		System.out.println("重写抽象方法");
-	}
+    // 重写抽象方法
+    public void function() {
+        System.out.println("重写抽象方法");
+    }
 }

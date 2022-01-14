@@ -8,9 +8,9 @@ package com.loto.oriented.h.interfaces.a.firstinterface;
  */
 
 public class MyImplement implements MyInterface {
-	// 重写了接口的抽象方法
-	public void </p>
- * <p>Function() {
-		System.out.println("接口的实现，重写了接口的抽象方法");
-	}
+    // 重写了接口的抽象方法
+    public void function() {
+        System.out.println("接口的实现，重写了接口的抽象方法");
+    }
 }
+
