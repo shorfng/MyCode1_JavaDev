@@ -6,7 +6,7 @@
     <!-- 父工程信息 -->
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.loto</groupId>
-    <artifactId>MyCode_Java-Dev-Project</artifactId>
+    <artifactId>JavaCode_Basics</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
