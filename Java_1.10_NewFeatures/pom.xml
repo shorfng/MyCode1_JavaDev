@@ -12,7 +12,7 @@
 
     <!-- 子工程信息 -->
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>Java_1.7_NewFeatures</artifactId>
+    <artifactId>Java_1.10_NewFeatures</artifactId>
 
     <!-- 解决Language Level版本问题 -->
     <properties>
