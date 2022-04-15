@@ -21,7 +21,7 @@ public class a_FileReader_usage {
     // 一次读取一个字符
     private static void readByByte() throws IOException {
         // 创建fr对象
-        FileReader fr = new FileReader("Java_1.6_IO/src/main/resources/FileWriter.txt");
+        FileReader fr = new FileReader("Java_1.8_IO/src/main/resources/FileWriter.txt");
 
         // 读取数据(一次读取一个字符)
         // 当数据读取完毕时，返回的结果是-1
@@ -41,7 +41,7 @@ public class a_FileReader_usage {
     // 循环读取数据
     private static void readByChar() throws IOException {
         // 创建fr对象
-        FileReader fr = new FileReader("Java_1.6_IO/src/main/resources/FileWriter.txt");
+        FileReader fr = new FileReader("Java_1.8_IO/src/main/resources/FileWriter.txt");
 
         // 读取数据（使用循环）
         // （1）使用 fr.read() 读取一个字符，并返回这个字符
@@ -63,7 +63,7 @@ public class a_FileReader_usage {
     // 高效读取数据
     private static void readByEffect() throws IOException {
         // 创建fr对象
-        FileReader fr = new FileReader("Java_1.6_IO/src/main/resources/FileWriter.txt");
+        FileReader fr = new FileReader("Java_1.8_IO/src/main/resources/FileWriter.txt");
 
         // 读取数据
         // 创建一个数组用来存放数据

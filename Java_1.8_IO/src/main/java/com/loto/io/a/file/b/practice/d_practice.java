@@ -12,7 +12,7 @@ import java.io.File;
 
 public class d_practice {
     public static void main(String[] args) {
-        String path = "Java_1.6_IO/src/main/resources/File_practice3.java";
+        String path = "Java_1.8_IO/src/main/resources/File_practice3.java";
 
         // 封装为文件对象
         File file = new File(path);

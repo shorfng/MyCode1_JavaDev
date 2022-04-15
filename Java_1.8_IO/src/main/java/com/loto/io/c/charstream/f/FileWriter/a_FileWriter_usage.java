@@ -16,7 +16,7 @@ public class a_FileWriter_usage {
         // 步骤1：创建输出流对象
         // FileWriter fw = new FileWriter("e:\\a.txt"); // Win系统下绝对路径
         // FileWriter fw = new FileWriter("/Users/TD/Desktop//a.txt"); // Mac系统下绝对路径
-        FileWriter fw = new FileWriter("Java_1.6_IO/src/main/resources/FileWriter.txt"); // 相对路径
+        FileWriter fw = new FileWriter("Java_1.8_IO/src/main/resources/FileWriter.txt"); // 相对路径
 
         // 步骤2：调用输出流对象的写数据的方法
         fw.write("hello");

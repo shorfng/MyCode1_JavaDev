@@ -19,7 +19,7 @@ public class a_FileOutputStream_usage {
     // 覆盖原文件
     private static void function_1() throws IOException {
         // 创建一个用于操作文件的字节输出流对象，一创建就必须明确数据存储目的地，如果没有该文件则会自动创建，如果文件存在，则覆盖
-        FileOutputStream fos = new FileOutputStream("Java_1.6_IO/src/main/resources/FileOutputStream.txt");
+        FileOutputStream fos = new FileOutputStream("Java_1.8_IO/src/main/resources/FileOutputStream.txt");
 
         // 写出数据（调用父类中的write方法）
         byte[] data = "abcd-".getBytes();
@@ -33,7 +33,7 @@ public class a_FileOutputStream_usage {
 
     // 续写
     private static void function_2() throws IOException {
-        FileOutputStream fos = new FileOutputStream("Java_1.6_IO/src/main/resources/FileOutputStream.txt",true);
+        FileOutputStream fos = new FileOutputStream("Java_1.8_IO/src/main/resources/FileOutputStream.txt",true);
 
         // 写出数据
         String str = "\r\n"+"111";

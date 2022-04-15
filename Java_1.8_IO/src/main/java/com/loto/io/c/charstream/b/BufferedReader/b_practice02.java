@@ -22,7 +22,7 @@ public class b_practice02 {
         ArrayList<Student> list = new ArrayList<>();
 
         // 创建br对象
-        BufferedReader br = new BufferedReader(new FileReader("Java_1.6_IO/src/main/resources/BufferedWriter_student.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("Java_1.8_IO/src/main/resources/BufferedWriter_student.txt"));
 
         // 读取文件、获取信息、组成对象、添加到集合
         String line;

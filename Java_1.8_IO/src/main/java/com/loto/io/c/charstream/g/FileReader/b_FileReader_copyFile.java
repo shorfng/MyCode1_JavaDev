@@ -22,8 +22,8 @@ public class b_FileReader_copyFile {
     // 复制文件：一次一个字符
     private static void copyFileByte() throws IOException {
         // 创建两个对象
-        FileReader fr = new FileReader("Java_1.6_IO/src/main/resources/FileWriter.txt");
-        FileWriter fw = new FileWriter("Java_1.6_IO/src/main/resources/FileWriterCopy.txt");
+        FileReader fr = new FileReader("Java_1.8_IO/src/main/resources/FileWriter.txt");
+        FileWriter fw = new FileWriter("Java_1.8_IO/src/main/resources/FileWriterCopy.txt");
 
         // 一边读取一边写入
         int r;
@@ -40,8 +40,8 @@ public class b_FileReader_copyFile {
     // 复制文本文件: 一次读写一个字符数组复制文本文件
     private static void copyFileArray() throws IOException {
         // 创建对象
-        FileReader fr = new FileReader("Java_1.6_IO/src/main/resources/FileWriter.txt");
-        FileWriter fw = new FileWriter("Java_1.6_IO/src/main/resources/FileWriterCopy.txt");
+        FileReader fr = new FileReader("Java_1.8_IO/src/main/resources/FileWriter.txt");
+        FileWriter fw = new FileWriter("Java_1.8_IO/src/main/resources/FileWriterCopy.txt");
 
         // 读取并写入
         char[] chs = new char[1024];

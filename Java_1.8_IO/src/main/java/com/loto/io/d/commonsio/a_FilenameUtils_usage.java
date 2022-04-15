@@ -12,11 +12,11 @@ import org.apache.commons.io.FilenameUtils;
 public class a_FilenameUtils_usage {
     public static void main(String[] args) {
         // 获取文件的扩展名
-        String extension = FilenameUtils.getExtension("Java_1.6_IO/src/main/resources/bg.jpg");
+        String extension = FilenameUtils.getExtension("Java_1.8_IO/src/main/resources/bg.jpg");
         System.out.println(extension);
 
         // 判断fileName是否是xxx的后缀名
-        boolean extension2 = FilenameUtils.isExtension("Java_1.6_IO/src/main/resources/TD.jpg", "jpg");
+        boolean extension2 = FilenameUtils.isExtension("Java_1.8_IO/src/main/resources/TD.jpg", "jpg");
         System.out.println(extension2);
     }
 }

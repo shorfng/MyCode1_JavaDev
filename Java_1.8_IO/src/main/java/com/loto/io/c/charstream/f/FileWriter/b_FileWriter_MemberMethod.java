@@ -14,7 +14,7 @@ import java.io.IOException;
 public class b_FileWriter_MemberMethod {
     public static void main(String[] args) throws IOException {
         // 创建输出流对象
-        FileWriter fw = new FileWriter("Java_1.6_IO/src/main/resources/FileWriter.txt");
+        FileWriter fw = new FileWriter("Java_1.8_IO/src/main/resources/FileWriter.txt");
 
         // 1、[void] write(String str):写一个字符串数据
         fw.write("abc");

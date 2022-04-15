@@ -20,7 +20,7 @@ import java.io.IOException;
 
 public class a_practice {
     public static void main(String[] args) throws IOException {
-        File file = new File("Java_1.6_IO/src/main/resources/File_practice1.txt");
+        File file = new File("Java_1.8_IO/src/main/resources/File_practice1.txt");
         file.createNewFile();
 
         // 1、文件的绝对路径

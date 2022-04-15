@@ -16,9 +16,9 @@ import java.io.IOException;
 public class b_FileUtils_usage {
     public static void main(String[] args) throws IOException {
         // 通过Commons-IO完成了文件复制的功能
-        FileUtils.copyFile(new File("Java_1.6_IO/src/main/resources/TD.jpg"), new File("Java_1.6_IO/src/main/resources/TDCopy.jpg"));
+        FileUtils.copyFile(new File("Java_1.8_IO/src/main/resources/TD.jpg"), new File("Java_1.8_IO/src/main/resources/TDCopy.jpg"));
 
         // 通过Commons-IO完成了文件夹复制的功能
-        FileUtils.copyDirectoryToDirectory(new File("Java_1.6_IO/src/main/resources/File"), new File("Java_1.6_IO/src/main/resources/FileCopy"));
+        FileUtils.copyDirectoryToDirectory(new File("Java_1.8_IO/src/main/resources/File"), new File("Java_1.8_IO/src/main/resources/FileCopy"));
     }
 }

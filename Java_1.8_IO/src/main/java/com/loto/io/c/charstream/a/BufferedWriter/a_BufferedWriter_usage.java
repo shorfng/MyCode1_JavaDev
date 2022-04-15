@@ -13,7 +13,7 @@ import java.io.*;
 public class a_BufferedWriter_usage {
     public static void main(String[] args) throws IOException {
         // 创建输出缓冲流对象
-        BufferedWriter bw = new BufferedWriter(new FileWriter("Java_1.6_IO/src/main/resources/BufferedWriter.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("Java_1.8_IO/src/main/resources/BufferedWriter.txt"));
 
         // 换行输入
         for (int i=0; i<5; i++) {

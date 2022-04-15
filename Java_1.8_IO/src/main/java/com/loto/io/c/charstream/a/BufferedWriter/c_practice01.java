@@ -45,7 +45,7 @@ public class c_practice01 {
         }
 
         // 创建bw对象
-        BufferedWriter bw = new BufferedWriter(new FileWriter("Java_1.6_IO/src/main/resources/BufferedWriter_student.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("Java_1.8_IO/src/main/resources/BufferedWriter_student.txt"));
 
         // 遍历集合，获取学生信息，写入到文件
         for (Student s : list) {

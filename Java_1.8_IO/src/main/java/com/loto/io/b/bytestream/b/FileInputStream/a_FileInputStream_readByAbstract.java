@@ -23,7 +23,7 @@ public class a_FileInputStream_readByAbstract {
 
     // 读取一个字节
     private static void readByte() throws IOException {
-        FileInputStream fis = new FileInputStream("Java_1.6_IO/src/main/resources/FileOutputStream.txt");
+        FileInputStream fis = new FileInputStream("Java_1.8_IO/src/main/resources/FileOutputStream.txt");
 
         // 读取一个字节
         int i = fis.read();  // i 表示读取到的数据
@@ -38,7 +38,7 @@ public class a_FileInputStream_readByAbstract {
 
     // 读取文件全部内容
     private static void readAll() throws IOException {
-        FileInputStream fis = new FileInputStream("Java_1.6_IO/src/main/resources/FileOutputStream.txt");
+        FileInputStream fis = new FileInputStream("Java_1.8_IO/src/main/resources/FileOutputStream.txt");
 
         // 读取文件
         int j;
