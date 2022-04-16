@@ -15,7 +15,7 @@ import java.io.IOException;
 public class a_BufferedInputStream_usage {
     public static void main(String[] args) throws IOException {
         // 1、创建缓冲流对象
-        FileInputStream fileIn = new FileInputStream("Java_1.6_IO/src/main/resources/BufferedOutputStream.txt");
+        FileInputStream fileIn = new FileInputStream("Java_1.8_IO/src/main/resources/BufferedOutputStream.txt");
         // 把基本的流包装成高效的流
         BufferedInputStream in = new BufferedInputStream(fileIn);
 

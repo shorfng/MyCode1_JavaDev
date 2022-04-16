@@ -11,7 +11,7 @@
 
     <!-- 子工程信息 -->
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>Java_2.6_NetWork</artifactId>
+    <artifactId>Java_1.9_Socket</artifactId>
 
     <!-- 解决Language Level版本问题 -->
     <properties>

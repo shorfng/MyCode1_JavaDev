@@ -16,7 +16,7 @@ import java.io.ObjectOutputStream;
 public class a_ObjectOutputStream_usage {
     public static void main(String[] args) throws IOException {
         // 明确存储对象的文件
-        FileOutputStream fos = new FileOutputStream("Java_1.6_IO/src/main/resources/ObjectOutputStream.txt");
+        FileOutputStream fos = new FileOutputStream("Java_1.8_IO/src/main/resources/ObjectOutputStream.txt");
 
         // 给操作文件对象加入写入对象功能
         ObjectOutputStream oos = new ObjectOutputStream(fos);

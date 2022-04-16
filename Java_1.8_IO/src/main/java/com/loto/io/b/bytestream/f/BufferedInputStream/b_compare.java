@@ -22,7 +22,7 @@ public class b_compare {
 
     private static void fun1() throws IOException {
         // 使用 FileInputStream 读取文件
-        FileInputStream fis = new FileInputStream("Java_1.6_IO/src/main/resources/bg.jpg");
+        FileInputStream fis = new FileInputStream("Java_1.8_IO/src/main/resources/bg.jpg");
         long start = System.currentTimeMillis();
 
         int b;
@@ -38,7 +38,7 @@ public class b_compare {
 
     private static void fun2() throws IOException {
         // 创建缓冲流对象
-        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("Java_1.6_IO/src/main/resources/bg.jpg"));
+        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("Java_1.8_IO/src/main/resources/bg.jpg"));
         long start = System.currentTimeMillis();
 
         int b;
@@ -53,7 +53,7 @@ public class b_compare {
     }
 
     private static void fun3() throws IOException {
-        FileInputStream fis = new FileInputStream("Java_1.6_IO/src/main/resources/bg.jpg");
+        FileInputStream fis = new FileInputStream("Java_1.8_IO/src/main/resources/bg.jpg");
         long start = System.currentTimeMillis();
         byte[] b = new byte[8 * 1024];
 
@@ -71,7 +71,7 @@ public class b_compare {
 
     private static void fun4() throws IOException {
         // 创建缓冲流对象
-        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("Java_1.6_IO/src/main/resources/bg.jpg"));
+        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("Java_1.8_IO/src/main/resources/bg.jpg"));
         long start = System.currentTimeMillis();
         byte[] b = new byte[8 * 1024];
 

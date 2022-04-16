@@ -15,7 +15,7 @@ import java.io.IOException;
 public class a_BufferedOutputStream_usage {
     public static void main(String[] args) throws IOException {
         // 1、创建基本的字节输出流
-        FileOutputStream fileOut = new FileOutputStream("Java_1.6_IO/src/main/resources/BufferedOutputStream.txt");
+        FileOutputStream fileOut = new FileOutputStream("Java_1.8_IO/src/main/resources/BufferedOutputStream.txt");
         // 使用高效的流，把基本的流进行封装，实现速度的提升
         BufferedOutputStream out = new BufferedOutputStream(fileOut);
 

@@ -13,10 +13,10 @@ import java.io.*;
 public class b_BufferedWriter_CopyFile {
     public static void main(String[] args) throws IOException {
         // 1、指定数据源，是数据源中读数据，采用输入流
-        BufferedReader in = new BufferedReader(new FileReader("Java_1.6_IO/src/main/resources/BufferedWriter.txt"));
+        BufferedReader in = new BufferedReader(new FileReader("Java_1.8_IO/src/main/resources/BufferedWriter.txt"));
 
         // 2、指定目的地，是把数据写入目的地，采用输出流
-        BufferedWriter out = new BufferedWriter(new FileWriter("Java_1.6_IO/src/main/resources/BufferedWriterCopy.txt"));
+        BufferedWriter out = new BufferedWriter(new FileWriter("Java_1.8_IO/src/main/resources/BufferedWriterCopy.txt"));
 
         // 3、读数据
         String line;

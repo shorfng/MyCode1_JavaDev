@@ -15,7 +15,7 @@ import java.io.IOException;
 public class a_BufferedReader_usage {
     public static void main(String[] args) throws IOException {
         // 创建输入缓冲流对象
-        BufferedReader br = new BufferedReader(new FileReader("Java_1.6_IO/src/main/resources/BufferedWriter.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("Java_1.8_IO/src/main/resources/BufferedWriter.txt"));
 
         // 一次读写一个字符
         //int ch;

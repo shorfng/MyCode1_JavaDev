@@ -15,7 +15,7 @@ import java.io.OutputStreamWriter;
 public class a_OutputStreamWriter_usage {
     public static void main(String[] args) throws IOException {
         // 创建与文件关联的字节输出流对象
-        FileOutputStream fos = new FileOutputStream("Java_1.6_IO/src/main/resources/OutputStreamWriter.txt");
+        FileOutputStream fos = new FileOutputStream("Java_1.8_IO/src/main/resources/OutputStreamWriter.txt");
         // 创建可以把字符转成字节的转换流对象，并指定编码
         OutputStreamWriter osw = new OutputStreamWriter(fos,"utf-8");
 

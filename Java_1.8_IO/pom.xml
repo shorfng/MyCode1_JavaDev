@@ -12,7 +12,7 @@
 
     <!-- 子工程信息 -->
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>Java_1.6_IO</artifactId>
+    <artifactId>Java_1.8_IO</artifactId>
 
     <!-- 解决Language Level版本问题 -->
     <properties>
@@ -22,26 +22,18 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-
         <!-- CommonsIO（IO操作库）-->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.5</version>
+            <version>2.11.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.alibaba/easyexcel -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>easyexcel</artifactId>
-            <version>1.1.1</version>
+            <version>3.0.5</version>
         </dependency>
-
     </dependencies>
 </project>

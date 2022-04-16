@@ -18,7 +18,7 @@ import java.io.ObjectInputStream;
 public class a_ObjectInputStream_usage {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         // 定义流对象关联存储了对象文件
-        FileInputStream fis = new FileInputStream("Java_1.6_IO/src/main/resources/ObjectOutputStream.txt");
+        FileInputStream fis = new FileInputStream("Java_1.8_IO/src/main/resources/ObjectOutputStream.txt");
 
         // 建立用于读取对象的功能对象
         ObjectInputStream ois = new ObjectInputStream(fis);

@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
 public class a_InputStreamReader_usage {
     public static void main(String[] args) throws IOException {
         //创建读取文件的字节流对象
-        InputStream in = new FileInputStream("Java_1.6_IO/src/main/resources/OutputStreamWriter.txt");
+        InputStream in = new FileInputStream("Java_1.8_IO/src/main/resources/OutputStreamWriter.txt");
 
         //创建转换流对象
         // InputStreamReader isr = new InputStreamReader(in);这样创建对象，会用本地默认码表读取，将会发生错误解码的错误

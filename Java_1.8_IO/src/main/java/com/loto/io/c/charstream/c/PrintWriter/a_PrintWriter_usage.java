@@ -14,10 +14,10 @@ import java.io.PrintWriter;
 public class a_PrintWriter_usage {
     public static void main(String[] args) throws IOException {
         // 创建流，开启文件自动刷新写入功能
-        //PrintWriter out = new PrintWriter(new FileWriter("Java_1.6_IO/src/main/resources/PrintWriter.txt" ,true));
+        //PrintWriter out = new PrintWriter(new FileWriter("Java_1.8_IO/src/main/resources/PrintWriter.txt" ,true));
 
         // 创建流
-        PrintWriter out = new PrintWriter("Java_1.6_IO/src/main/resources/PrintWriter.txt");
+        PrintWriter out = new PrintWriter("Java_1.8_IO/src/main/resources/PrintWriter.txt");
 
         // 写数据
         for (int i = 0; i < 5; i++) {

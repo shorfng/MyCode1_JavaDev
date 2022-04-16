@@ -19,7 +19,7 @@ import java.io.IOException;
 
 public class b_practice {
     public static void main(String[] args) throws IOException {
-        File file = new File("Java_1.6_IO/src/main/resources/File_practice2.txt");
+        File file = new File("Java_1.8_IO/src/main/resources/File_practice2.txt");
 
         // 判断，如果文件不存在，就创建这个文件，打印创建结果
         if (!file.exists()) {
