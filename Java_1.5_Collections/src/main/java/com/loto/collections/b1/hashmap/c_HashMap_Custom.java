@@ -10,7 +10,7 @@ import java.util.Map;
  * <p>Function：HashMap_使用HashMap集合,存储自定义的对象:（1）作为键出现（2）作为值出现
  */
 
-public class d_HashMap_Custom {
+public class c_HashMap_Custom {
     public static void main(String[] args) {
         function1();
         function2();

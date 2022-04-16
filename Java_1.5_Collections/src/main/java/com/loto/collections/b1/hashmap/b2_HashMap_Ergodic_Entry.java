@@ -13,7 +13,7 @@ import java.util.Set;
  * <p>Function：HashMap_遍历（Entry）
  */
 
-public class c_HashMap_Ergodic_Entry {
+public class b2_HashMap_Ergodic_Entry {
 	public static void main(String[] args) {
 		Map<Integer, String> map = new HashMap<>();
 

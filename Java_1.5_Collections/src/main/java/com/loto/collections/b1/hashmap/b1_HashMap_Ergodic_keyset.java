@@ -13,7 +13,7 @@ import java.util.Set;
  * <p>Function：HashMap_遍历（keyset）
  */
 
-public class b_HashMap_Ergodic_keyset {
+public class b1_HashMap_Ergodic_keyset {
 	public static void main(String[] args) {
 		Map<String, Integer> map = new HashMap<>();
 
@@ -25,7 +25,6 @@ public class b_HashMap_Ergodic_keyset {
 		Set<String> set = map.keySet();
 
 		// 2、遍历键的Set集合，获取Set集合中的所有元素（map中的键）
-
 		// 方式1
 		Iterator<String> it = set.iterator();
 		while (it.hasNext()) {
@@ -36,12 +35,12 @@ public class b_HashMap_Ergodic_keyset {
 			System.out.println(key + "  " + value);
 		}
 
+        // 2、遍历键的Set集合，获取Set集合中的所有元素（map中的键）
 		// 方式2
-//		for (String key : set) {
-//			// 3、调用map集合中的方法get，根据键，获取键所对应的值
-//			Integer value = map.get(key);
-//			System.out.println(key + " " + value);
-//		}
-
+		for (String key : set) {
+			// 3、调用map集合中的方法get，根据键，获取键所对应的值
+			Integer value = map.get(key);
+			System.out.println(key + " " + value);
+		}
 	}
 }
